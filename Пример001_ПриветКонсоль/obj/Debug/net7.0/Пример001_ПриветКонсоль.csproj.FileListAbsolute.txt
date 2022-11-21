@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\bin\Debug\net7.0\Пример001_ПриветКонсоль.exe
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\bin\Debug\net7.0\Пример001_ПриветКонсоль.deps.json
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\bin\Debug\net7.0\Пример001_ПриветКонсоль.runtimeconfig.json
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\bin\Debug\net7.0\Пример001_ПриветКонсоль.dll
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\bin\Debug\net7.0\Пример001_ПриветКонсоль.pdb
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.AssemblyInfo.cs
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.dll
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\refint\Пример001_ПриветКонсоль.dll
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.pdb
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\Пример001_ПриветКонсоль.genruntimeconfig.cache
+C:\Users\Acer\Desktop\4444\Primer\Пример001_ПриветКонсоль\obj\Debug\net7.0\ref\Пример001_ПриветКонсоль.dll
